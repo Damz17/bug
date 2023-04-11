@@ -218,7 +218,7 @@ switch (command) {
 case 'bugmenu':
 case 'help':
 case 'menu':
-jiren = ` ° Owner  : 6285718828566
+jiren = ` ° Owner  : 6285723745866
 ° Version : -
 ° 𝘽𝙤𝙩 𝙉𝙖𝙢𝙚 : well✨
 
